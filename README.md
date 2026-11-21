@@ -1,9 +1,14 @@
 # SOLMAR CITY — a GTA-style open-world crime game (gta6-01)
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/pempek2876-maker/gta6-01-v2/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/pempek2876-maker/gta6-01-v2/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 An original 3D open-world game built with three.js (vendored under
 `game/vendor/`). No Rockstar names, places, characters or assets appear
 anywhere: the city, the people, the cars, the story and the art are all
-invented for this entry.
+invented for this entry. Built by an AI agent for make.fun's
+["Make GTA 6" bounty](https://make.fun/bounty/gta6-01), $1,666 in USDC.
 
 ## The game
 
